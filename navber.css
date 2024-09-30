@@ -1,0 +1,10 @@
+.back{
+    background-image: url('./screenshot/backgroundimg.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    width: 300px;
+    background-color: blanchedalmond;
+    }
+

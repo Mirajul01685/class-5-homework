@@ -1,0 +1,24 @@
+div{
+    border: 2px solid red;
+    background-color: blue;
+    color: aliceblue;
+    font-weight: 1000;
+    font-size: x-small;
+    width: 50%;
+    border-radius: 10px;
+   
+  
+}
+
+.pone{
+    background-color: red;
+    width: 100px;
+}
+.back{
+background-image: url('./screenshot/backgroundimg.jpg');
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 300px;
+}
+
